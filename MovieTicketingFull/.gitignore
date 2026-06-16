@@ -1,0 +1,35 @@
+# C++ objects and libs
+*.o
+*.obj
+*.dll
+*.exe
+*.so
+*.dylib
+*.a
+*.lib
+
+# Qt specifics
+.qmake.stash
+Makefile
+Makefile.Debug
+Makefile.Release
+ui_*.h
+moc_*.cpp
+qrc_*.cpp
+*.app
+.qtcreator
+.qtc_clangd
+*.user
+.user.
+
+# Mac OS X
+.DS_Store
+__MACOSX
+
+# Build folders
+build/
+bin/
+debug/
+release/
+Compose
+Write to Monjur Ahmed
